@@ -1,0 +1,43 @@
+body{
+   background-color:black;
+}
+.bestmovie{
+   color:white;
+   text-align:center;
+   font-family: 'Spicy Rice', cursive; 
+   font-size:50px;
+}
+h1{
+   color:blue;
+   text-align:center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.bestgame{
+    color:yellow;
+    text-align:center;
+    font-family: 'Lato', sans-serif;
+    font-size:50px;
+}
+.game{
+    color:red;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size:35px;
+}
+.War{
+    color:Blue;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size:35px;
+}
+.snack{
+    color:lime;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    font-size:35px;
+}
